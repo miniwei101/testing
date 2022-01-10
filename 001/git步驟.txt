@@ -1,0 +1,12 @@
+
+下載
+$git git@github.com:miniwei101/testing.git
+
+
+
+建立節點
+$ git remote add origin git@github.com:miniwei101/testing.git
+
+
+上傳
+$ git push origin
